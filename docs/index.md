@@ -7,6 +7,7 @@ You can create new Markdown files in this `docs/` directory for each important p
 ## Examples
 
 For example, you might have:
+
 - `docs/local.md` that describes how to run your application locally
 - `docs/REST.md` that describes any custom endpoints that your application has
 - `docs/syndication.md` might describe how syndication works between subsites in your application
@@ -17,4 +18,3 @@ For example, you might have:
 ## Benefits
 
 Helps engineers and support staff to understand your application better at a glance, without having to dig into the code.
-
