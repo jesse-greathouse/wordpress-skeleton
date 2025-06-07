@@ -40,6 +40,9 @@ node_modules
 .Trashes
 ehthumbs.db
 Thumbs.db
+.vscode
+.vstags
+commit.txt
 
 # Local PHPCS configuration files
 .phpcs.xml
