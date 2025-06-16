@@ -5,20 +5,14 @@ node_modules
 /package.json
 /package-lock.json
 
-# Built-in
-/plugins/akismet/
-/plugins/advanced-post-cache/
-/plugins/cron-control/
-/plugins/debug-bar/
-/plugins/debug-bar-cron/
-/plugins/gutenberg-ramp/
-/plugins/jetpack/
-/plugins/jetpack-force-2fa/
-/plugins/lightweight-term-count-update/
-/plugins/query-monitor/
-/plugins/rewrite-rules-inspector/
-/plugins/two-factor/
-/plugins/vaultpress/
+# plugins
+/plugins/test-plugin-*
+
+# client-mu-plugins
+/client-mu-plugins/test-mu-plugin-*
+
+# themes
+/themes/test-theme-*
 
 # Uploads directory
 /uploads/
